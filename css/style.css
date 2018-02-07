@@ -1,0 +1,63 @@
+body {
+  font-family: futura;
+  width: 70%;
+  margin: 0 auto;
+  background-color: #eee;
+}
+
+#headlines-board {
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+li {
+  margin: 15px 0;
+}
+.float {
+  float: left;
+  margin: 10px;
+  background-color: yellow;
+  padding: 10px;
+
+}
+
+span {
+  font-weight: 700;
+  background-color: yellow;
+  padding: 0 10px;
+}
+
+input {
+  padding: 5px;
+}
+
+.red {
+  background-color: red;
+}
+
+.usedWord {
+  background-color: #eee;
+  color: #bbb;
+  padding: 10px 10px;
+  float:left;
+  margin: 10px;
+}
+
+.wrongField {
+  background-color: pink;
+}
+
+.correctField {
+  background-color: #d4ebe1;
+}
+
+.linkUrl {
+  color: blue;
+  font-size: 12px;
+  margin-left: 40px;
+}
